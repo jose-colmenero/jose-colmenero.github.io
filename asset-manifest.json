@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efd13d06.css",
+    "main.js": "/static/js/main.a67a2356.js",
+    "static/js/453.99c1801e.chunk.js": "/static/js/453.99c1801e.chunk.js",
+    "static/media/Mario and Adrian B.jpg": "/static/media/Mario and Adrian B.7f44c6d6e341a27d14b3.jpg",
+    "static/media/restaurant chef A.jpg": "/static/media/restaurant chef A.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek salad.jpg": "/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restaurantfood.jpg": "/static/media/restaurantfood.e8abf5b772b6817189aa.jpg",
+    "static/media/bruchetta.png": "/static/media/bruchetta.ec260fe26a159e05c0c0.png",
+    "static/media/wrench.png": "/static/media/wrench.8b0777e477fda5e48ba4.png",
+    "static/media/footer_logo.png": "/static/media/footer_logo.2c859235d6c57bb54176.png",
+    "static/media/instagram_logo.webp": "/static/media/instagram_logo.1d6d0317700c4f0c95b7.webp",
+    "static/media/meta_logo.png": "/static/media/meta_logo.d60629216756c80e7adc.png",
+    "static/media/check.png": "/static/media/check.9d43b6cfb0bce82fb378.png",
+    "static/media/logo.png": "/static/media/logo.f19f309808ca5bf7b873.png",
+    "static/media/x_logo.png": "/static/media/x_logo.d74d7cef2155f5a3d688.png",
+    "static/media/user3.png": "/static/media/user3.2137e3755419c1ef2145.png",
+    "static/media/user4.png": "/static/media/user4.dedbba7afafa76e189c0.png",
+    "static/media/user1.png": "/static/media/user1.762b8141dd6b3c6a788d.png",
+    "static/media/user2.png": "/static/media/user2.56c50b8b8de353fb557c.png",
+    "index.html": "/index.html",
+    "main.efd13d06.css.map": "/static/css/main.efd13d06.css.map",
+    "main.a67a2356.js.map": "/static/js/main.a67a2356.js.map",
+    "453.99c1801e.chunk.js.map": "/static/js/453.99c1801e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd13d06.css",
+    "static/js/main.a67a2356.js"
+  ]
+}

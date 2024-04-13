@@ -1,0 +1,19 @@
+.ConfirmedBooking {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-size: '2rem';
+    font-weight: 'bold';
+    text-align: 'center';
+
+    margin: '10vw';
+    color: #495e57;
+    margin-bottom: 100px;
+}
+
+.check{
+    width: 10vw;
+    height: auto;
+}
